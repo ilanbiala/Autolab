@@ -1,4 +1,7 @@
-source 'https://rubygems.org'
+is;dlafjk;lskfjsd;fa
+
+
+Make some changes`urce 'https://rubygems.org'
 
 gem 'rails', '=4.2.1'
 
